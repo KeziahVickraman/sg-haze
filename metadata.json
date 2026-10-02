@@ -1,0 +1,6 @@
+{
+  "name": "SG HazeWatch",
+  "description": "Live Singapore air quality and PSI tracker by region with real-time hazardous threshold alerts and NEA health advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
